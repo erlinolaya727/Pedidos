@@ -1,0 +1,17 @@
+C:\Users\erlin\source\repos\Pedidos\bin\Debug\net8.0-windows\Pedidos.exe
+C:\Users\erlin\source\repos\Pedidos\bin\Debug\net8.0-windows\Pedidos.deps.json
+C:\Users\erlin\source\repos\Pedidos\bin\Debug\net8.0-windows\Pedidos.runtimeconfig.json
+C:\Users\erlin\source\repos\Pedidos\bin\Debug\net8.0-windows\Pedidos.dll
+C:\Users\erlin\source\repos\Pedidos\bin\Debug\net8.0-windows\Pedidos.pdb
+C:\Users\erlin\source\repos\Pedidos\obj\Debug\net8.0-windows\Pedidos.Form1.resources
+C:\Users\erlin\source\repos\Pedidos\obj\Debug\net8.0-windows\Pedidos.csproj.GenerateResource.cache
+C:\Users\erlin\source\repos\Pedidos\obj\Debug\net8.0-windows\Pedidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erlin\source\repos\Pedidos\obj\Debug\net8.0-windows\Pedidos.AssemblyInfoInputs.cache
+C:\Users\erlin\source\repos\Pedidos\obj\Debug\net8.0-windows\Pedidos.AssemblyInfo.cs
+C:\Users\erlin\source\repos\Pedidos\obj\Debug\net8.0-windows\Pedidos.csproj.CoreCompileInputs.cache
+C:\Users\erlin\source\repos\Pedidos\obj\Debug\net8.0-windows\Pedidos.sourcelink.json
+C:\Users\erlin\source\repos\Pedidos\obj\Debug\net8.0-windows\Pedidos.dll
+C:\Users\erlin\source\repos\Pedidos\obj\Debug\net8.0-windows\refint\Pedidos.dll
+C:\Users\erlin\source\repos\Pedidos\obj\Debug\net8.0-windows\Pedidos.pdb
+C:\Users\erlin\source\repos\Pedidos\obj\Debug\net8.0-windows\Pedidos.genruntimeconfig.cache
+C:\Users\erlin\source\repos\Pedidos\obj\Debug\net8.0-windows\ref\Pedidos.dll
